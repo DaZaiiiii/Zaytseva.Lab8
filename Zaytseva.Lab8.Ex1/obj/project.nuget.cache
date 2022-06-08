@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tzPAJbpndlHV7wxmu49QZ1rFfcgGCCgiHdaOZuQDq+3uSoxctrayYc/sXSqrduP9f7RgEYf8OSGDtsnkBejsew==",
+  "success": true,
+  "projectFilePath": "D:\\source\\repos\\Zaytseva.Lab8.Ex1\\Zaytseva.Lab8.Ex1\\Zaytseva.Lab8.Ex1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aniwo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\aniwo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\aniwo\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

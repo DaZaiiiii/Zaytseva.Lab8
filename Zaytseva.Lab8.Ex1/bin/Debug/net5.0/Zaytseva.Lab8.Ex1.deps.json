@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Zaytseva.Lab8.Ex1/1.0.0": {
+        "runtime": {
+          "Zaytseva.Lab8.Ex1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zaytseva.Lab8.Ex1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
