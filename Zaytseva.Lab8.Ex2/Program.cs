@@ -3,7 +3,7 @@ using System.Text.Encodings;
 using System.Text.Encodings.Web;
 using System.Text.Json;
 
-var path = "Ex.2.csv";
+var path = "table.csv";
 
 Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
 
